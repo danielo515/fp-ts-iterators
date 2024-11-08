@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/velocityzen/fp-ts-iterators.git"
+    "url": "git+ssh://git@github.com/danielo515/fp-ts-iterators.git"
   },
   "keywords": [
     "fp-ts",
